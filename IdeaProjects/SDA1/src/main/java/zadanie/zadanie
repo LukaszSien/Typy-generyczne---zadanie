@@ -1,0 +1,6 @@
+Stworz klase BoxForShapes, niech pozwala ona na podanie typu generycznego rozszerzajacego interfejs Shape
+ niech przechowuje ona tablice typu T z ksztaltami Interfejs Shape niech posiada metode obliczajaca obwod (circuit)
+ Stworz 2 klasy implementujace interfejs Shape
+  - Square i Circle Niech BoxForShapes posiada metode obliczajaca sume obowodow wszystkich ksztaltow
+   w main stworzcie 3 tablice - jedna typu Shape Jedna typu Square i jedna typu Circle wypelnijcie je 2-3 przykladami
+   stworzcie osobne pudelka na typ Shape, typ Square i typ Circle wyswietlcie sumy obwodow w konsoli
